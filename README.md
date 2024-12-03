@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name</title>
+    <title>Yan Asadchy</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -10,14 +10,12 @@
             color: black;
             margin: 0;
             padding: 20px;
-            line-height: 1.6;
         }
         .container {
             max-width: 600px;
             margin: 0 auto;
             background: #ff6600;
             padding: 20px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h1 {
             text-align: center;
